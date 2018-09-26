@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="calendar.png">calendar.png</file>
+    </qresource>
+</RCC>
